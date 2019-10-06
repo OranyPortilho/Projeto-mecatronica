@@ -1,1 +1,2 @@
-# Projeto-mecatr-nica-
+# PROJETO MECATRONICA 
+#IFRN-SC
